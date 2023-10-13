@@ -1,4 +1,4 @@
-# docuproject# document_manager_backend
+# docuproject
 
 ## Setting up a new environment
 ```
